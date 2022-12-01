@@ -1,0 +1,244 @@
+-----------------------------------------------
+SURFACE AREA (mm^2)
+-----------------------------------------------
+
+Control_BUCCAL_C1.JPG-d
+Whole area: 9.32693877551
+Demineralized: 0.524081632653
+White: 8.80285714286
+
+Control_BUCCAL_C2.JPG-d
+Whole area: 10.1053061224
+Demineralized: 1.58489795918
+White: 8.52040816327
+
+Control_BUCCAL_C3.JPG-d
+Whole area: 11.3395918367
+Demineralized: 2.80530612245
+White: 8.53428571429
+
+Control_BUCCAL_C4.JPG-d
+Whole area: 9.4187755102
+Demineralized: 1.18816326531
+White: 8.2306122449
+
+Control_BUCCAL_C5.JPG-d
+Whole area: 11.0318367347
+Demineralized: 2.09959183673
+White: 8.93224489796
+
+Control_BUCCAL_C6.JPG-d
+Whole area: 9.18653061224
+Demineralized: 0.66612244898
+White: 8.52040816327
+
+Control_MESIAL_C1
+Whole area: 2.19755102041
+Demineralized: 0.537142857143
+White: 1.66040816327
+
+Control_MESIAL_C2
+Whole area: 2.75469387755
+Demineralized: 0.0587755102041
+White: 2.69591836735
+
+Control_MESIAL_C3
+Whole area: 2.79632653061
+Demineralized: 0.951836734694
+White: 1.84448979592
+
+Control_MESIAL_C4.JPG-d
+Whole area: 2.50408163265
+Demineralized: 0.211428571429
+White: 2.29265306122
+
+Control_MESIAL_C5.JPG-d
+Whole area: 2.78612244898
+Demineralized: 0.631020408163
+White: 2.15510204082
+
+Control_MESIAL_C6.JPG-d
+Whole area: 2.59755102041
+Demineralized: 0.328571428571
+White: 2.26897959184
+
+Control_OCCLUSAL_C1.JPG-d
+Whole area: 15.2057142857
+Demineralized: 2.77673469388
+White: 12.4289795918
+
+Control_OCCLUSAL_C2.JPG-d
+Whole area: 15.093877551
+Demineralized: 5.91632653061
+White: 9.17755102041
+
+Control_OCCLUSAL_C3.JPG-d
+Whole area: 15.8191836735
+Demineralized: 1.88857142857
+White: 13.9306122449
+
+Control_OCCLUSAL_C4.JPG-d
+Whole area: 14.6808163265
+Demineralized: 2.1493877551
+White: 12.5314285714
+
+Control_OCCLUSAL_C5.JPG-d
+Whole area: 15.82
+Demineralized: 3.98571428571
+White: 11.8342857143
+
+Control_OCCLUSAL_C6.JPG-d
+Whole area: 14.3048979592
+Demineralized: 0.948571428571
+White: 13.3563265306
+
+Control_PALATAL_C1.JPG-d
+Whole area: 11.5873469388
+Demineralized: 1.69755102041
+White: 9.88979591837
+
+Control_PALATAL_C2.JPG-d
+Whole area: 11.3632653061
+Demineralized: 1.19714285714
+White: 10.166122449
+
+Control_PALATAL_C3.JPG-d
+Whole area: 10.8485714286
+Demineralized: 0.257142857143
+White: 10.5914285714
+
+Control_PALATAL_C4.JPG-d
+Whole area: 10.8514285714
+Demineralized: 1.79714285714
+White: 9.05428571429
+
+Control_PALATAL_C5.JPG-d
+Whole area: 11.8306122449
+Demineralized: 1.48448979592
+White: 10.346122449
+
+Control_PALATAL_C6.JPG-d
+Whole area: 10.4534693878
+Demineralized: 0.256326530612
+White: 10.1971428571
+
+Non-BAC_BUCCAL_N1.JPG-d
+Whole area: 7.01918367347
+Demineralized: 2.97755102041
+White: 4.04163265306
+
+Non-BAC_BUCCAL_N2.JPG-d
+Whole area: 10.6783673469
+Demineralized: 3.48285714286
+White: 7.19551020408
+
+Non-BAC_BUCCAL_N3.JPG-d
+Whole area: 11.053877551
+Demineralized: 1.9306122449
+White: 9.12326530612
+
+Non-BAC_BUCCAL_N4.JPG-d
+Whole area: 10.8808163265
+Demineralized: 4.58734693878
+White: 6.29346938776
+
+Non-BAC_BUCCAL_N5.JPG-d
+Whole area: 11.5551020408
+Demineralized: 4.02040816327
+White: 7.53469387755
+
+Non-BAC_BUCCAL_N6.JPG-d
+Whole area: 10.4583673469
+Demineralized: 2.48
+White: 7.97836734694
+
+Non-BAC_MESIAL_N1.JPG-d
+Whole area: 5.43183673469
+Demineralized: 2.05551020408
+White: 3.37632653061
+
+Non-BAC_MESIAL_N2.JPG-d
+Whole area: 4.7812244898
+Demineralized: 3.01020408163
+White: 1.77102040816
+
+Non-BAC_MESIAL_N3.JPG-d
+Whole area: 4.8293877551
+Demineralized: 1.71795918367
+White: 3.11142857143
+
+Non-BAC_MESIAL_N4.JPG-d
+Whole area: 5.15020408163
+Demineralized: 2.72163265306
+White: 2.42857142857
+
+Non-BAC_MESIAL_N5.JPG-d
+Whole area: 5.33387755102
+Demineralized: 2.57755102041
+White: 2.75632653061
+
+Non-BAC_MESIAL_N6.JPG-d
+Whole area: 4.42244897959
+Demineralized: 1.77183673469
+White: 2.6506122449
+
+Non-BAC_OCCLUSAL_N1.JPG-d
+Whole area: 14.8114285714
+Demineralized: 7.52775510204
+White: 7.28367346939
+
+Non-BAC_OCCLUSAL_N2.JPG-d
+Whole area: 14.5869387755
+Demineralized: 6.6293877551
+White: 7.95755102041
+
+Non-BAC_OCCLUSAL_N3.JPG-d
+Whole area: 15.1697959184
+Demineralized: 4.81632653061
+White: 10.3534693878
+
+Non-BAC_OCCLUSAL_N4.JPG-d
+Whole area: 15.2783673469
+Demineralized: 9.45306122449
+White: 5.82530612245
+
+Non-BAC_OCCLUSAL_N5.JPG-d
+Whole area: 15.1669387755
+Demineralized: 6.37795918367
+White: 8.78897959184
+
+Non-BAC_OCCLUSAL_N6.JPG-d
+Whole area: 14.7828571429
+Demineralized: 4.6106122449
+White: 10.172244898
+
+Non-BAC_PALATAL_N1.JPG-d
+Whole area: 10.7971428571
+Demineralized: 2.1412244898
+White: 8.65591836735
+
+Non-BAC_PALATAL_N2.JPG-d
+Whole area: 12.3395918367
+Demineralized: 2.93020408163
+White: 9.4093877551
+
+Non-BAC_PALATAL_N3.JPG-d
+Whole area: 10.7195918367
+Demineralized: 1.93387755102
+White: 8.78571428571
+
+Non-BAC_PALATAL_N4.JPG-d
+Whole area: 11.5044897959
+Demineralized: 5.36204081633
+White: 6.14244897959
+
+Non-BAC_PALATAL_N5.JPG-d
+Whole area: 12.233877551
+Demineralized: 2.16816326531
+White: 10.0657142857
+
+Non-BAC_PALATAL_N6.JPG-d
+Whole area: 12.2236734694
+Demineralized: 3.23836734694
+White: 8.98530612245
+
